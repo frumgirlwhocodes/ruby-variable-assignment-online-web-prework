@@ -8,4 +8,4 @@ describe "./variable.rb" do
   end
 
 end
-gre
+greeting
